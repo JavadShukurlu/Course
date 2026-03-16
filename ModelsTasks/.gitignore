@@ -1,0 +1,66 @@
+## Build nəticələri
+bin/
+obj/
+out/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+
+## Logs
+*.log
+
+## OS faylları
+.DS_Store
+Thumbs.db
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+## Test nəticələri
+TestResults/
+*.trx
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## Publish
+publish/
+
+## Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## Dotnet tools
+.dotnet/
+
+## Local secrets
+secrets.json
+
+## Environment files
+.env
+.env.*
+
+## Azure
+.localhistory/
+*.azurePubxml
+
+## Backup files
+*.bak
+*.tmp
+*.temp
