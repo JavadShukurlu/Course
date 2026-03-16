@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAYwE8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwF4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T08:41:50.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T08:37:32.616Z",
               "EditorCaption": ""
