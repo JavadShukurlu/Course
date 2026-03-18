@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\",
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\course\\modelstasks\\actions\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:actions\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\course\\modelstasks\\actions\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\actions\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:actions\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\course\\modelstasks\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_3_506_5\\desktop\\course\\modelstasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\actions\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:actions\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Actions\\Login.cs",
-              "RelativeDocumentMoniker": "Actions\\Login.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Actions\\Login.cs",
-              "RelativeToolTip": "Actions\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAzwIoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T09:21:26.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Actions\\Register.cs",
-              "RelativeDocumentMoniker": "Actions\\Register.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Actions\\Register.cs",
-              "RelativeToolTip": "Actions\\Register.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T08:50:32.449Z",
+              "WhenOpened": "2026-03-18T07:47:49.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAgwKsAAAAAAAAAAAAAAA==",
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Register.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Register.cs",
+              "RelativeToolTip": "Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:48:58.011Z",
+              "WhenOpened": "2026-03-18T07:47:11.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Actions\\Login.cs",
+              "RelativeDocumentMoniker": "Actions\\Login.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Actions\\Login.cs",
+              "RelativeToolTip": "Actions\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:46:38.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Actions\\Register.cs",
+              "RelativeDocumentMoniker": "Actions\\Register.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Actions\\Register.cs",
+              "RelativeToolTip": "Actions\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:46:38.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAADgv8cAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T07:46:38.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Models\\Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Classtime.PC_3_506_5\\Desktop\\Course\\ModelsTasks\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Teacher.cs",
               "RelativeToolTip": "Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:48:57.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T07:46:38.863Z"
             }
           ]
         }

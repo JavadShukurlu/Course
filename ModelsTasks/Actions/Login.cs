@@ -21,7 +21,10 @@ namespace ModelsTasks.Actions
                     Console.WriteLine("Giris ugurludur!");
             }
         }
-       
 
+        internal static void LoginStudent(Student student)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

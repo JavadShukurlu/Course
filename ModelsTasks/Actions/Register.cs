@@ -16,6 +16,11 @@ namespace ModelsTasks.Actions
             }
             Console.WriteLine();
         }
+
+        internal static void RegisterStudent(Student student)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
