@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|c:\\users\\classtime.pc_6_213_12\\desktop\\course\\modelstasks\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197872A0-D4E5-497A-9281-D265701089BD}|ModelsTasks.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Login.cs",
               "RelativeDocumentMoniker": "Models\\Login.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Register.cs",
               "RelativeDocumentMoniker": "Models\\Register.cs",
@@ -77,26 +77,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T09:49:54.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Models\\Teacher.cs",
               "RelativeToolTip": "Models\\Teacher.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwEkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv0kAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T09:48:57.871Z",
               "EditorCaption": ""
@@ -109,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Classtime.PC_6_213_12\\Desktop\\Course\\ModelsTasks\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T09:48:58.011Z",
               "EditorCaption": ""
